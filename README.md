@@ -4,4 +4,4 @@
 #### h4
 ##### h5
 ###### h6
-$$ \begin{bmatrix} -2 6  \\ 8 -4 \end{bmatrix} $$
+\begin{align}\begin{bmatrix} xz & xw\\ yz & yw \end{bmatrix}
